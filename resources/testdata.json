@@ -1,0 +1,9 @@
+{
+  "testdata1": [
+    [
+      "email", "password", "token"
+    ]
+  ],
+  "image_path": "resources\\files\\img.jpg"
+}
+
